@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Github Status
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yashihh" /><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashihh&layout=compact&langs_count=8&card_width=320" />
 
-![](https://leetcard.yashihh.cool/leetcode?site=cn)
+## LeetCard
+![LeetCode Stats](https://leetcard.jacoblin.cool/yashihh?theme=light&font=Khula)
